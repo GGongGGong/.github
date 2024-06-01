@@ -50,5 +50,5 @@
 ### 서버
 |Name|Github|Email|
 |:---|:---|:---|
-|주보경|[Bokyeong Ju]((https://github.com/jupyter1234))|
+|주보경|[Bokyeong Ju](https://github.com/jupyter1234)|
 |정현정|[HyeonJeong](https://github.com/wgwjh05169)|
