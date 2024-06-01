@@ -39,7 +39,7 @@
 
 # 라이딩벗 전체 시스템 아키텍쳐
 
-
+# [라이딩벗 시연 영상](https://www.youtube.com/watch?v=Ise2fN-N6YI)
 ***
 ## Contributors
 ### 클라이언트
